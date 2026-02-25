@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/Lenovo%20Legion/Desktop/test/cart-app/node_modules/@nuxt/vite-builder/dist/vite-node-entry.mjs"
